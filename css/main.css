@@ -69,10 +69,17 @@ body{
 .card-design{
 	font-family: 'Tajawal', sans-serif;
 	margin-bottom: 20px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .custom-card-text{
 	font-size: 18.5px;
+	text-align: justify;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 20px;
 }
 
 .card-section{
@@ -119,6 +126,10 @@ body{
 .toolcardlisttext{
 	font-family: 'Tajawal', sans-serif;
 	font-size: 20px;
+}
+
+.certificate-card-header{
+	height: 50px;
 }
 
 #TopButton {
