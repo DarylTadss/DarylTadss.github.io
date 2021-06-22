@@ -21,11 +21,13 @@ body{
 	font-family: 'Poppins', sans-serif;
 	font-family: 'Roboto Slab', serif;
 	margin-top: 120px;
+	color: #472E1E;
 }
 
 .subintro-text{
 	margin-top: 15px;
 	font-family: 'Tajawal', sans-serif;
+	color: #272526;
 }
 
 .dm-icon{
@@ -43,6 +45,7 @@ body{
 	font-family: 'Poppins', sans-serif;
 	font-family: 'Roboto Slab', serif;
 	margin-top: 250px;
+	color: #472E1E;
 }
 
 .subabout-text{
@@ -50,6 +53,7 @@ body{
 	margin-left: 75px;
 	margin-right: 75px;
 	font-family: 'Tajawal', sans-serif;
+	color: #272526;
 }
 
 .certificatetext{
@@ -57,6 +61,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 	margin-top: 80px;
 	margin-bottom: 50px;
+	color: #472E1E;
 }
 
 .servicetext{
@@ -64,6 +69,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 	margin-top: 200px;
 	margin-bottom: 50px;
+	color: #472E1E;
 }
 
 .card-design{
@@ -80,6 +86,7 @@ body{
 	padding-left: 25px;
 	padding-right: 25px;
 	padding-bottom: 20px;
+	color: #272526;
 }
 
 .card-section{
@@ -91,6 +98,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 	margin-top: 180px;
 	margin-bottom: 50px;
+	color: #472E1E;
 }
 
 .skills-design{
@@ -102,25 +110,32 @@ body{
 	font-family: 'Roboto Slab', serif;
 	margin-top: 180px;
 	margin-bottom: 50px;
+	color: #472E1E;
 }
 
 .toolcardtext{
 	font-family: 'Poppins', sans-serif;
 	font-family: 'Roboto Slab', serif;
 	margin-top: 40px;
+	color: #472E1E;
 }
 
 .toolcardsubtext{
 	font-family: 'Tajawal', sans-serif;
 	font-size: 20px;
 	margin-top: 15px;
+	color: #272526;
 }
 
 .toolsmaintext{
-	color:blue;
+	color: #472E1E;
 	font-family: 'Tajawal', sans-serif;
 	font-size: 21.5px;
 	margin-top: 60px;
+}
+
+.items-tools-style{
+	color: #272526;
 }
 
 .toolcardlisttext{
@@ -130,6 +145,10 @@ body{
 
 .certificate-card-header{
 	height: 50px;
+	color: #472E1E;
+}
+.progress-bar-style{
+	background-color: #D1B169;
 }
 
 #TopButton {
@@ -141,7 +160,7 @@ body{
 	font-size: 18px;
 	border: none;
 	outline: none;
-	background-color: #152f4f;
+	background-color:#472E1E;;
 	color: white;
 	cursor: pointer;
 	padding: 15px;
@@ -149,7 +168,7 @@ body{
   }
   
   #TopButton:hover {
-	background-color: #eae7dc;
+	background-color: #D9DEB5;
 	color: black;
   }
 
@@ -174,7 +193,7 @@ body{
 		font-size: 18px;
 		border: none;
 		outline: none;
-		background-color: #152f4f;
+		background-color: #472E1E;
 		color: white;
 		cursor: pointer;
 		padding: 15px;
